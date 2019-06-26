@@ -6,7 +6,12 @@ body {
 
 #backBtn {
   color: whitesmoke;
-  font-size: 30px;
+  font-size: 13.5px;
+  float: left;
+  position: fixed;
+  left: 9px;
+  top: 8px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
